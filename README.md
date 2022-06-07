@@ -1,6 +1,6 @@
 # Portfolio
 # PacMen Factory
-<a https://ShannaSmith.github.io/PacMen /a>
+[PacMen](https://ShannaSmith.github.io/PacMen)
 ## Description:
 This program uses Javascript to dynamically display data on a webpage.
 It produces PacMen on demand. They are produced at the click of a button. Click the start button and each of them move around the browser window at their own pace. 
